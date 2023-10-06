@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <record id="1" model="estate.property">
+        <field name="name">Big vella</field>
+        <field name="state">new</field>
+        <field name="expected_price">12300</field>
+        <field name="selling_price">12330</field>
+        <field name="bedrooms">2</field>
+    </record>
+</odoo>
